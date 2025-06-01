@@ -1,0 +1,42 @@
+# MATLAB and Simulink generated files
+*.asv
+*.autosave
+*.slxc
+*.slprj
+*.sltx
+*.mdlp
+*.mldatx
+*.fig
+*.mx3
+*.sfx
+*.p
+*.log
+*.txt
+
+# Simulink Cache Files
+simulink/cache/
+
+# MATLAB Editor State
+*.m~
+
+# MATLAB preferences and settings
+matlab/prefs/
+*.ini
+
+# MATLAB workspace files
+*.mws
+
+# MATLAB binary files
+mex*
+
+# MATLAB example files
+examples/
+
+# MATLAB test files
+test/
+
+# MATLAB build files
+build/
+slprj/
+# MATLAB dependency files
+dependencies/
